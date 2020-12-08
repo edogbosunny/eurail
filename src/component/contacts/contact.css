@@ -1,0 +1,30 @@
+.contacts-page {
+  /* background: #dcdcdc9f; */
+  height: 100vh;
+  margin-top: 20px;
+  /* min-width: 420px; */
+  
+}
+
+.contacts-name {
+  margin-left: 10px;
+  margin-right: 10px;
+  border: solid 1px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-color: #dcdcdc;
+}
+.no-data {
+  margin-top: 20vh;
+  text-align: center;
+}
+/* .back-drop {
+  background-color: rgba(48, 49, 48, 0.42);
+  height: 100%;
+  position: fixed;
+  transition: all 1.3s;
+  width: 100%;
+} */
