@@ -29,7 +29,7 @@ const Tabs = (props) => {
       }
     };
     getContacts();
-  }, []);
+  }, [dispatch]);
 
   const renderTabs = () => {
     return React.Children.map(props.children, (item, i) => {
